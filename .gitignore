@@ -11,6 +11,7 @@ direnv:
 
 # Данные скрипта
 downloads/
+*.json
 *.cbz
 *.jpg
 
